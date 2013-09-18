@@ -1,0 +1,10 @@
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/558/3C8D67C5-22C2-E111-AD46-0019B9F72D71.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/559/66CE0851-21C2-E111-AA41-001D09F2910A.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/561/46990773-23C2-E111-9513-001D09F29533.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/567/78DB78F6-2DC2-E111-9C69-001D09F24FEC.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/573/4E990EB6-35C2-E111-B998-003048CF94A6.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/556/121785C5-22C2-E111-A97D-0015C5FDE067.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/562/E6138F5A-21C2-E111-9F21-001D09F2AD4D.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/565/807D4A0C-29C2-E111-A90D-001D09F24664.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/574/AC72B4B5-35C2-E111-8075-003048D2C174.root
+root://eoscms//eos/cms/store/data/Run2012C/MinimumBias/RECO/PromptReco-v1/000/197/578/E204A7EF-40C2-E111-A36C-001D09F292D1.root
